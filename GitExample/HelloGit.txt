@@ -1,1 +1,3 @@
-Hello
+Hello folks, this is my second commit
+
+Hello pal, this is other commit
