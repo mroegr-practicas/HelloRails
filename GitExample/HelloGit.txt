@@ -1,6 +1,12 @@
 Hello folks, this is my second commit
 
+
 Hello pal, this is other commit
 
 This is another change
 we are gonna have a merge conflict
+
+Hello pal, this is other commit, again
+
+This is another change
+
