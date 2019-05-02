@@ -1,0 +1,30 @@
+[33mcommit 440523aa2335b74a7fd4934befcd1239adad5094[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 28e860c 4fb37e9
+Author: Matthias Roger <mroegr@unal.edu.co>
+Date:   Fri Apr 12 00:12:57 2019 +0000
+
+    Merge branch 'develop'
+
+[33mcommit 28e860caadc1805c6db26abae333c98e103dbc63[m
+Author: Matthias Roger <mroegr@unal.edu.co>
+Date:   Fri Apr 12 00:07:51 2019 +0000
+
+    another change
+
+[33mcommit 4fb37e98ea6b7b037c714b471407d71f6c6dd4ea[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Matthias Roger <mroegr@unal.edu.co>
+Date:   Fri Apr 12 00:06:15 2019 +0000
+
+    added even more lines
+
+[33mcommit c4fdf230c433a10056999904580fde28eac50824[m
+Author: Matthias Roger <mroegr@unal.edu.co>
+Date:   Thu Apr 11 23:57:57 2019 +0000
+
+    HelloGit modified
+
+[33mcommit 606bca899d33f3fed362cafc813891aa080de252[m[33m ([m[1;33mtag: v1.0.0_alpha[m[33m)[m
+Author: Matthias Roger <mroegr@unal.edu.co>
+Date:   Thu Apr 11 23:49:38 2019 +0000
+
+    first commit
